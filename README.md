@@ -1,2 +1,2 @@
 # MovieSicoveryApplication
-MovieDiscoveryApplication
+MovieDiscoveryApplication using The MovieDB
